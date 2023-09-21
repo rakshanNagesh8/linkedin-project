@@ -1,4 +1,4 @@
-# Little Professor Game in Python
+# The Little Professor Game in Python
 #### Video Demo: https://www.youtube.com/watch?v=qY-VGkYNd1A
 #### Description:
 

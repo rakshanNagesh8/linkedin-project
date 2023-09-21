@@ -2,3 +2,4 @@ unittest.mock
 rich
 random
 sys
+pytest
